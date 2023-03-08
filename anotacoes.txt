@@ -1,0 +1,32 @@
+Estruturas de repetição e arrays em java
+
+cada repetição chamada de loop.
+uma estrutura de repetição permite que uma sequencia de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas.
+while. primeiro passa pela expressao para executar os comandos
+do-while primeiro passa pela sentençã para poder chegar na expressao
+for inicializa, passa pelo teste, sentença, atualização
+for precisa da variavel
+
+icrementos e decrementos
+pre-fixados: ++numero, --numero
+soma e subtrai  uma unidade ao valor da variável
+pós-fixados: numero++, numero--
+soma e subtrai uma unidade da variavel, retornando o valor original.
+
+arrays
+é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo.x
+ex.: uma array para nome, outra para idade, outra para altura...
+arrays permaecem com o mesmo tamanho depois de criados. 
+criou com 10 posições, se mantem.
+array unidimensional - ex.: [0, 1, 2, 3, 4, 5, 6]
+array multidimensional - ex.: a[0][0] a[0][1] a[0][3]
+linhas e colunas tipo matriz
+	coluna 0  coluna 1  coluna 2  coluna 3
+linha 0
+linha 1
+linha 2
+a como exemplo: nome da array
+primeiro colchete: índice da linha
+segundo colchete: índice da coluna
+
+
